@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi👋 Im Ghaida suroya
 
 <!--
 **ghaidasuroya/ghaidasuroya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

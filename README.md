@@ -1,9 +1,16 @@
 <div align="center">
- Hi👋 Im Ghaida suroya
-
+**## Hi👋 Im Ghaida suroya
+**
  ini profile ghaida
 
 
+## Languages and Tools:
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+
+</p>
 
  ## Connect with me:
 

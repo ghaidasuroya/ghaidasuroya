@@ -1,5 +1,7 @@
 <div align="center">
  Hi👋 Im Ghaida suroya
+
+ ini profile ghaida
 <!--
 **ghaidasuroya/ghaidasuroya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

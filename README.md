@@ -27,9 +27,9 @@ visualizing insights, and solving real-world problems with data.
 
 #### 📫Connect with me
 <a href="mailto:suroyaghaidaa@gmail.com">
-  <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Gmail" width="30" height="30"/>|
+  <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Gmail" width="30" height="30"/>
  <a href="www.linkedin.com/in/ghaida-suroya-7b2a4b215">
-  <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" alt="linkedin" width="30" height="30"/>|
+  <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" alt="linkedin" width="30" height="30"/>
 <a href="https://medium.com/@ghasuroya">
-  <img src="https://cdn.worldvectorlogo.com/logos/medium-4.svg" alt="medium" width="30" height="30"/>|
+  <img src="https://cdn.worldvectorlogo.com/logos/medium-4.svg" alt="medium" width="30" height="30"/>
 

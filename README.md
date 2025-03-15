@@ -13,7 +13,7 @@ visualizing insights, and solving real-world problems with data.
 
 
 
-#### Ability
+#### 📚Currently Learning and Exploring
 <p align="center">
 <a href="https://ubuntu.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" alt="Ubuntu" width="40" height="40"/></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="40" height="40"/></a>

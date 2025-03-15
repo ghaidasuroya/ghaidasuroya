@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Ghaida Suroya 👋  
+# Hi🌍, I'm Ghaida Suroya 👋  
  🚀 Data Enthusiast | 💻 Python & SQL | 📊 Data Visualization  
 ***
 </div>
@@ -24,9 +24,4 @@ visualizing insights, and solving real-world problems with data.
 <a href="https://www.tableau.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="AWS" width="40" height="40"/></a> 
 <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" alt="Figma" width="40" height="40"/></a>    
 </p>
-
-#### Connect with Me
-<p align="center">
- <a href="https://www.linkedin.com/in/ghaida-suroya-7b2a4b215/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" alt="Linkedin" width="40" height="40"/></a>
- <a href="https://medium.com/@ghasuroya" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/medium-4.svg" alt="Medium" width="40" height="40"/></a>
 

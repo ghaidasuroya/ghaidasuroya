@@ -14,7 +14,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
  </a>
  <a href="https://ubuntu.com/" target="_blank">
-  <img src="https://assets.ubuntu.com/v1/d639b982-canonical-brand-tile.png" alt="Ubuntu" width="40" height="40"
+  <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" alt="Ubuntu" width="40" height="40"
 
 </p>
 

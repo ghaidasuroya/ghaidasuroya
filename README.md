@@ -2,8 +2,12 @@
 
 # Hi🌍, I'm Ghaida Suroya 👋  
  <a href="mailto:suroyaghaidaa@gmail.com">
-  <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Gmail" width="10" height="10"/>|
- 💻 Python & SQL | 📊 Data Visualization  
+  <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Gmail" width="20" height="20"/>|
+ <a href="www.linkedin.com/in/ghaida-suroya-7b2a4b215">
+  <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" alt="linkedin" width="20" height="20"/>|
+<a href="https://medium.com/@ghasuroya">
+  <img src="https://cdn.worldvectorlogo.com/logos/medium-4.svg" alt="medium" width="20" height="20"/>|
+
 ***
 </div>
 I am an aspiring data analyst with a background in Physic who has expertise in data analysis visualization. 

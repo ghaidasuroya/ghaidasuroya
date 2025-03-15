@@ -1,7 +1,8 @@
 <div align="center">
 
 # Hi🌍, I'm Ghaida Suroya 👋  
- 🚀 Data Enthusiast | 💻 Python & SQL | 📊 Data Visualization  
+ <a href="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" target="_blank"><img src="suroyaghaidaa@gmail.com" alt="Ubuntu" width="10" height="10"/>|
+ 💻 Python & SQL | 📊 Data Visualization  
 ***
 </div>
 I am an aspiring data analyst with a background in Physic who has expertise in data analysis visualization. 

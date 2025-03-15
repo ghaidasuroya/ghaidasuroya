@@ -2,7 +2,7 @@
 
 # Hi🌍, I'm Ghaida Suroya 👋  
  <a href="mailto:suroyaghaidaa@gmail.com">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gmail.svg" alt="Gmail" width="40" height="40"/>>|
+  <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Gmail" width="10" height="10"/>|
  💻 Python & SQL | 📊 Data Visualization  
 ***
 </div>

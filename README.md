@@ -5,17 +5,17 @@
 
 
 ## Languages and Tools:
-
 <p align="center">
- <a href="https://www.python.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
- </a>
- <a href="https://www.postgresql.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
- </a>
- <a href="https://ubuntu.com/" target="_blank">
+<a href="https://ubuntu.com/" target="_blank">
   <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" alt="Ubuntu" width="40" height="40"
+<a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="Postgresql" width="40" height="40
+<a href"https://www.python.org/" target="_blank">
+  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="40" height="40"/>
+<a href="https://iraf-community.github.io/"_blank">
+  <img src=https://occultation.trgozlemevleri.gov.tr/media/images/iraf_logo.png" alt="IRAF" width="40" height="40"/>
 
+ 
 </p>
 
  ## Connect with me:

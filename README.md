@@ -13,7 +13,7 @@ visualizing insights, and solving real-world problems with data.
 
 
 
-## Ability
+#### Ability
 <p align="center">
 <a href="https://ubuntu.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" alt="Ubuntu" width="40" height="40"/></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="40" height="40"/></a>
@@ -25,7 +25,7 @@ visualizing insights, and solving real-world problems with data.
 <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" alt="Figma" width="40" height="40"/></a>    
 </p>
 
-## Connect with Me
+#### Connect with Me
 <p align="center">
  <a href="https://www.linkedin.com/in/ghaida-suroya-7b2a4b215/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" alt="Linkedin" width="40" height="40"/></a>
  <a href="https://medium.com/@ghasuroya" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/medium-4.svg" alt="Medium" width="40" height="40"/></a>

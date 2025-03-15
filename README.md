@@ -1,13 +1,7 @@
 <div align="center">
 
 # Hi🌍, I'm Ghaida Suroya 👋  
- <a href="mailto:suroyaghaidaa@gmail.com">
-  <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Gmail" width="20" height="20"/>|
- <a href="www.linkedin.com/in/ghaida-suroya-7b2a4b215">
-  <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" alt="linkedin" width="20" height="20"/>|
-<a href="https://medium.com/@ghasuroya">
-  <img src="https://cdn.worldvectorlogo.com/logos/medium-4.svg" alt="medium" width="20" height="20"/>|
-
+ 🚀 Data Enthusiast | 💻 Python & SQL | 📊 Data Visualization
 ***
 </div>
 I am an aspiring data analyst with a background in Physic who has expertise in data analysis visualization. 
@@ -30,4 +24,12 @@ visualizing insights, and solving real-world problems with data.
 <a href="https://www.tableau.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="AWS" width="40" height="40"/></a> 
 <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" alt="Figma" width="40" height="40"/></a>    
 </p>
+
+#### 📫Connect with me
+<a href="mailto:suroyaghaidaa@gmail.com">
+  <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Gmail" width="30" height="30"/>|
+ <a href="www.linkedin.com/in/ghaida-suroya-7b2a4b215">
+  <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" alt="linkedin" width="30" height="30"/>|
+<a href="https://medium.com/@ghasuroya">
+  <img src="https://cdn.worldvectorlogo.com/logos/medium-4.svg" alt="medium" width="30" height="30"/>|
 

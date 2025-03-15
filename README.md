@@ -1,22 +1,13 @@
-# Hi 👋, I'm [Nama Kamu]
-
-## 🚀 About Me
+<p align="center">
+# Hi, I'm Ghaida Suroya👋
+## 🚀data enthusiast
 I'm a passionate [Job Title or Interest] from [Your Country].
 
-- 🌱 I’m currently learning **[Technology or Topic]**
-- 💬 Ask me about **[Skills or Topics]**
-- 📫 How to reach me: **[Your Contact Info]**
-
+ceritain ghaida ceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaida
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 🛠 Tech Stack
-- 💻 Programming Languages: [Python, C++, JavaScript, etc.]
-- 🌐 Web Dev: [React, Node.js, etc.]
-- ☁️ Cloud & DevOps: [AWS, Docker, Kubernetes, etc.]
-
-
-
 <p align="center">
 <a href="https://ubuntu.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" alt="Ubuntu" width="40" height="40"/></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="40" height="40"/></a>

@@ -6,25 +6,7 @@
 
 ## Languages and Tools:
 <p align="center">
- <a href="https://ubuntu.com/" target="_blank" style="text-decoration: none;">
-  <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" alt="Ubuntu" width="40" height="40"/>
-</a>
-<a href="https://www.postgresql.org/" target="_blank" style="text-decoration: none;">
-  <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="Postgresql" width="40" height="40"/>
-</a>
-<a href="https://iraf-community.github.io/"_blank"style="text-decoration: none;">
-  <img src=https://occultation.trgozlemevleri.gov.tr/media/images/iraf_logo.png" alt="IRAF" width="40" height="40"/>
-</a>
-<a href=""style="text-decoration: none;">
- <img src="" alt="QGIS" width="40" height="40"/>
-</a>
-<a href="https://www.figma.com/"_blank"style="text-decoration: none;>
- <img src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" alt="Figma" width="40" height="40"/>
-</a>
-
-
-
- <a href"https://ubuntu.com/" target="_blank" target="_blank" style="text-decoration: none;">
+<a href"https://ubuntu.com/" target="_blank" target="_blank" style="text-decoration: none;">
   <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" alt="Ubuntu" width="40" height="40"/>
 </a>
 <a href"https://www.python.org/" target="_blank" style="text-decoration: none;">

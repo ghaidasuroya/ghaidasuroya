@@ -12,7 +12,7 @@ ceritain ghaida ceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceri
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-## 🛠 Tech Stack
+## Ability
 <p align="center">
 <a href="https://ubuntu.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" alt="Ubuntu" width="40" height="40"/></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="40" height="40"/></a>
@@ -22,3 +22,9 @@ ceritain ghaida ceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceri
 <a href="https://qgis.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/QGIS_logo_minimal.svg/480px-QGIS_logo_minimal.svg.png" alt="Qgis" width="40" height="40"/></a>
 <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" alt="Figma" width="40" height="40"/></a>      
 </p>
+
+## Connect with Me
+<p align="center">
+ <a href="https://www.linkedin.com/in/ghaida-suroya-7b2a4b215/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" alt="Linkedin" width="40" height="40"/></a>
+ <a href="https://medium.com/@ghasuroya" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/medium-4.svg" alt="Medium" width="40" height="40"/></a>
+

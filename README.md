@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Ghaida Suroya 👋  
-## 🚀 Data Enthusiast  
+ 🚀 Data Enthusiast  
 
 </div>
 

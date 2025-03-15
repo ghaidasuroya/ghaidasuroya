@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://ubuntu.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" alt="Ubuntu" width="40" height="40"/></a>
-<a href="https://ubuntu.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" alt="Ubuntu" width="40" height="40"/></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="Ubuntu" width="40" height="40"/></a>
 <a href="https://ubuntu.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" alt="Ubuntu" width="40" height="40"/></a>
 <a href="https://ubuntu.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" alt="Ubuntu" width="40" height="40"/></a>
 <a href="https://ubuntu.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" alt="Ubuntu" width="40" height="40"/></a>

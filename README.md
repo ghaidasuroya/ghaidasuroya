@@ -1,16 +1,14 @@
 <div align="center">
 
 # Hi, I'm Ghaida Suroya 👋  
- 🚀 Data Enthusiast  
+ 🚀 Data Enthusiast | 💻 Python & SQL | 📊 Data Visualization  
 ***
 </div>
+A data enthusiast who loves exploring patterns in numbers,
+visualizing insights, and solving real-world problems with data. 
 
 
-I'm a passionate [Job Title or Interest] from [Your Country].
 
-ceritain ghaida ceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaida
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## Ability
 <p align="center">
@@ -20,7 +18,8 @@ ceritain ghaida ceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceri
 <a href="https://www.cprogramming.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="40" height="40"/></a>
 <a href="https://iraf-community.github.io/" target="_blank"><img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/IRAF_logo.svg/1200px-IRAF_logo.svg.png" alt="Iraf" width="40" height="40"/></a>
 <a href="https://qgis.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/QGIS_logo_minimal.svg/480px-QGIS_logo_minimal.svg.png" alt="Qgis" width="40" height="40"/></a>
-<a href="https://www.figma.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" alt="Figma" width="40" height="40"/></a>      
+<a href="https://aws.amazon.com/" target="_blank"><img src="orldvectorlogo.com/logos/aws-2.svg" alt="AWS" width="40" height="40"/></a> 
+ <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" alt="Figma" width="40" height="40"/></a>    
 </p>
 
 ## Connect with Me

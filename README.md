@@ -1,7 +1,8 @@
-
+<div align="center">
 # Hi, I'm Ghaida Suroya👋
 ## 🚀data enthusiast
-<p align="center">
+</div>
+
 I'm a passionate [Job Title or Interest] from [Your Country].
 
 ceritain ghaida ceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaidaceritain ghaida

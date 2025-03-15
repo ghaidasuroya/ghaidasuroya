@@ -6,13 +6,13 @@
 
 ## Languages and Tools:
 <p align="center">
-<a href"https://ubuntu.com/" target="_blank" target="_blank" style="text-decoration: none;">
+<a href="https://ubuntu.com/" target="_blank" target="_blank" style="text-decoration: none;">
   <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" alt="Ubuntu" width="40" height="40"/>
 </a>
-<a href"https://www.python.org/" target="_blank" style="text-decoration: none;">
+<a href="https://www.python.org/" target="_blank" style="text-decoration: none;">
   <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="40" height="40"/>
 </a>
-<a href"https://qgis.org/" target="_blank" style="text-decoration: none;">
+<a href="https://qgis.org/" target="_blank" style="text-decoration: none;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/QGIS_logo_minimal.svg/480px-QGIS_logo_minimal.svg.png" alt="Qgis" width="40" height="40"/>
 </a>
 

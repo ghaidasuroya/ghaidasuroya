@@ -1,7 +1,8 @@
-<div align="center">
+<p align="center">
 # Hi, I'm Ghaida Suroya👋
 ## 🚀data enthusiast
-</div>
+</p>
+
 
 I'm a passionate [Job Title or Interest] from [Your Country].
 

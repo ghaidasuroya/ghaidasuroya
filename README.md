@@ -13,7 +13,8 @@
  <a href="https://www.postgresql.org/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
  </a>
-  <img src="https://icons8.com/icon/R5wFEDtAt2D4/external-ubuntu-is-a-free-and-open-source-linux-distribution-logo-tritone-tal-revivo" alt="Ubuntu" width="40" height="40"
+ <a href="https://ubuntu.com/" target="_blank">
+  <img src="https://assets.ubuntu.com/v1/d639b982-canonical-brand-tile.png" alt="Ubuntu" width="40" height="40"
 
 </p>
 

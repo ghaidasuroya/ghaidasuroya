@@ -14,7 +14,10 @@
   <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="40" height="40"/>
 <a href="https://iraf-community.github.io/"_blank">
   <img src=https://occultation.trgozlemevleri.gov.tr/media/images/iraf_logo.png" alt="IRAF" width="40" height="40"/>
-<a href="https://qgis.org/"><img src"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/QGIS_logo_minimal.svg/480px-QGIS_logo_minimal.svg.png" alt="QGIS" width="40" height="40"/></a>
+<a href="https://qgis.org/">
+ <img src"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/QGIS_logo_minimal.svg/480px-QGIS_logo_minimal.svg.png" alt="QGIS" width="40" height="40"/>
+
+</a>
  
 </p>
 

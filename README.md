@@ -6,17 +6,20 @@
 
 ## Languages and Tools:
 <p align="center">
-<a href="https://ubuntu.com/" target="_blank">
+<a href="https://ubuntu.com/" target="_blank" style="text-decoration: none;">
   <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" alt="Ubuntu" width="40" height="40"/>
-<a href="https://www.postgresql.org/" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="Postgresql" width="40" height="40/>
-<a href"https://www.python.org/" target="_blank">
+</a>
+<a href="https://www.postgresql.org/" target="_blank"style="text-decoration: none;">
+  <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="Postgresql" width="40" height="40"/>
+</a>
+<a href"https://www.python.org/" target="_blank" style="text-decoration: none;">
   <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="40" height="40"/>
-<a href="https://iraf-community.github.io/"_blank">
+</a>
+<a href="https://iraf-community.github.io/"_blank"style="text-decoration: none;">
   <img src=https://occultation.trgozlemevleri.gov.tr/media/images/iraf_logo.png" alt="IRAF" width="40" height="40"/>
-<a href="https://qgis.org/">
+</a>
+<a href="https://qgis.org/"style="text-decoration: none;">
  <img src"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/QGIS_logo_minimal.svg/480px-QGIS_logo_minimal.svg.png" alt="QGIS" width="40" height="40"/>
-
 </a>
  
 </p>
